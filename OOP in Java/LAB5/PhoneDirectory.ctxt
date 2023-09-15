@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PhoneDirectory
+comment1.params=userName\ userCNIC\ userPhone\ userAddress
+comment1.target=PhoneDirectory(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCNIC()
+comment3.params=
+comment3.target=void\ displayData()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

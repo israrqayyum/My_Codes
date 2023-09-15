@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Task4
+comment1.params=area
+comment1.target=Task4(int)
+comment2.params=
+comment2.target=int\ getArea()
+comment3.params=area
+comment3.target=int\ calcGallons(int)
+comment4.params=gallons
+comment4.target=int\ calcTime(int)
+comment5.params=quantity
+comment5.target=int\ gallonCharges(int)
+comment6.params=time
+comment6.target=int\ labourCharges(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

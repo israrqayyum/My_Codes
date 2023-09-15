@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fibonacciyt
+comment1.params=a\ b\ n
+comment1.target=void\ printfib(int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

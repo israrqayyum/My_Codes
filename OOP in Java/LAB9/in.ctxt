@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=in
+comment1.params=bal\ rates\ debitCard\ creditCard
+comment1.target=BankAccount(int,\ int,\ boolean,\ boolean)
+comment2.params=amt
+comment2.target=void\ deposit(int)
+comment3.params=amt
+comment3.target=void\ withdraw(int)
+comment4.params=
+comment4.target=int\ calcInterest()
+comment5.params=
+comment5.target=void\ monthlyProcess()
+comment6.params=
+comment6.target=void\ yearlyProcess()
+comment7.params=
+comment7.target=int\ getBalance()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

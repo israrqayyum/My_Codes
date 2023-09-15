@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=domainName
+comment1.target=Email(java.lang.String)
+comment2.params=s
+comment2.target=void\ setDomainName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDomainName()
+comment4.params=
+comment4.target=java.lang.String\ checkSyntax()
+comment5.params=
+comment5.target=java.lang.String\ checkExtension()
+comment6.params=
+comment6.target=java.lang.String\ getUniversityName()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

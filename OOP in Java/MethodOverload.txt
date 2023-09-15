@@ -1,0 +1,39 @@
+import java.util.Scanner;
+
+public class Calculator {
+    public int add(int x, int y) {
+        return x + y;
+    }
+
+    public double add(double x, double y) {
+        return x + y;
+    }
+
+    public int add(int x, int y, int z) {
+        return x + y + z;
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        Calculator calculator = new Calculator();
+
+        System.out.print("Enter two integers to add: ");
+        int num1 = scanner.nextInt();
+        int num2 = scanner.nextInt();
+        int result1 = calculator.add(num1, num2);
+        System.out.println("Result: " + result1);
+
+        System.out.print("Enter two doubles to add: ");
+        double num3 = scanner.nextDouble();
+        double num4 = scanner.nextDouble();
+        double result2 = calculator.add(num3, num4);
+        System.out.println("Result: " + result2);
+
+        System.out.print("Enter three integers to add: ");
+        int num5 = scanner.nextInt();
+        int num6 = scanner.nextInt();
+        int num7 = scanner.nextInt();
+        int result3 = calculator.add(num5, num6, num7);
+        System.out.println("Result: " + result3);
+    }
+}

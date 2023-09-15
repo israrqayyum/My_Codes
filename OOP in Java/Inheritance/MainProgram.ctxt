@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MainProgram
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=
+comment4.target=java.lang.String\ getMake()
+comment5.params=
+comment5.target=java.lang.String\ getModel()
+comment6.params=
+comment6.target=int\ getYear()
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
